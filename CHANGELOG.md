@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-dataproc/#history
 
+### [4.0.2](https://github.com/googleapis/python-dataproc/compare/v4.0.1...v4.0.2) (2022-03-29)
+
+
+### Bug Fixes
+
+* resource quotas ([#377](https://github.com/googleapis/python-dataproc/issues/377)) ([122c2f7](https://github.com/googleapis/python-dataproc/commit/122c2f77a93228dda409a8fad22465f2d28c5e0d))
+
 ### [4.0.1](https://github.com/googleapis/python-dataproc/compare/v4.0.0...v4.0.1) (2022-03-05)
 
 
